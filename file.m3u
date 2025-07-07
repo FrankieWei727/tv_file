@@ -26,7 +26,7 @@ https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 http://122.117.71.103:8668/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" group-title="卫视" ,湖南卫视
-http://60.176.216.247:8888/udp/233.50.200.190:5140
+http://171.117.181.141:8084/rtp/226.0.2.143:9056
 
 
 
