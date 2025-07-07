@@ -24,10 +24,6 @@ https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 
 #EXTINF:-1 ,HBO亞洲
 http://122.117.71.103:8668/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
-#EXTINF:-1 tvg-id="HBO原创巨献" tvg-name="HBO原创巨献" ,HBO原创巨献
-http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
-#EXTINF:-1 tvg-id="HBO溫馨家庭" tvg-name="HBO溫馨家庭" ,HBO溫馨家庭
-http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" group-title="卫视" ,湖南卫视
 http://60.176.216.247:8888/udp/233.50.200.190:5140
