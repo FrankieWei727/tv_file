@@ -22,13 +22,13 @@ http://211.75.171.121:8558/http/61.67.128.137:8081/hls/71/813/ch041.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视" ,湖南卫视
 http://218.3.138.25:1111/tsfile/live/1018_1.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视" ,湖南卫视1
-http://183.94.146.109:2222/tsfile/live/0018_1.m3u8
+http://219.143.140.95:9990/bptv/10000100000000050000000003873458.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视" ,湖南卫视2
-http://111.196.129.215:4022/rtp/239.3.1.132:8012
+http://dsj.motem.top:8880/bptv/10000100000000050000000003873458.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视" ,湖南卫视3
-http://113.5.215.184:4022/udp/229.58.190.128:5000
+http://171.117.181.141:8084/rtp/226.0.2.143:9056
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视" ,湖南卫视4
-http://171.108.239.84:8181/tsfile/live/1060_1.m3u8
+http://218.3.138.25:1111/tsfile/live/1018_1.m3u8
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name=东方卫视" tvg-logo="https://i.imgur.com/WqM6xnF.png" group-title="卫视" ,东方卫视
 http://171.213.131.249:8000/udp/239.93.1.44:5140
