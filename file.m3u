@@ -30,7 +30,8 @@ http://198.16.100.90:8278/hbosignature_twn/playlist.m3u8?tid=MC5C575432115754321
 http://198.16.100.90:8278/fyi_twn/playlist.m3u8?tid=18186902&ct=17988&&tsum=7a21abab0a5912afb0ebc01db111e59f
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" group-title="卫视" ,湖南卫视
-http://221.220.131.11:9999/rtp/239.3.1.132:8012
+http://60.176.216.247:8888/udp/233.50.200.190:5140
+
 
 
 
