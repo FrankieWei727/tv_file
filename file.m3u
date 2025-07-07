@@ -15,10 +15,13 @@ http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 http://113.64.146.2:2024/hls/12/index.m3u8
 #EXTINF:-1 tvg-id="TVB星河" tvg-name="TVB星河" group-title="港台" ,TVB星河台
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
+#EXTINF:-1 tvg-id="星空卫视" tvg-name="星空卫视" group-title="港台" ,星空卫视
+http://118.113.133.9:8888/udp/239.93.0.156:2193
 #EXTINF:-1 group-title="港台" ,TVBS亚洲
 http://extraott.com:80/live/6772191932/1654508883/5496.m3u8
 #EXTINF:-1 tvg-id="TVBS新闻" tvg-name="TVBS新闻" group-title="港台" ,TVBS新闻
 https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
+
 #EXTINF:-1 ,HBO亞洲
 http://122.117.71.103:8668/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
 #EXTINF:-1 tvg-id="HBO原创巨献" tvg-name="HBO原创巨献" ,HBO原创巨献
