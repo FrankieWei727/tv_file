@@ -23,7 +23,7 @@ http://extraott.com:80/live/6772191932/1654508883/5496.m3u8
 https://live.tvfix.org/live/tvbsnews/1/v4000000/index.m3u8
 
 #EXTINF:-1 ,HBO亞洲
-http://122.117.71.103:8668/http/220.130.87.218:8081/hls/71/813/ch041.m3u8
+http://211.75.171.121:8558/http/61.67.128.137:8081/hls/71/813/ch041.m3u8
 
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name=湖南卫视" tvg-logo="https://parco-zh.github.io/demo/HNWS.png" group-title="卫视" ,湖南卫视
 http://218.3.138.25:1111/tsfile/live/1018_1.m3u8
